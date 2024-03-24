@@ -6,8 +6,8 @@ POST http://localhost:3001/new
 Content-Type: application/json
 
 {
-    "description": "Testing from REST client"
+    "description": "Test from REST client"
 }
 
 ### Delete task
-DELETE http://localhost:3001/delete/17
+DELETE http://localhost:3001/delete/24
